@@ -1,0 +1,16 @@
+#img{
+   border-radius: 50px;
+   width: 1000;
+   height: 600;
+}
+#button{
+    width: 600;
+height: 55;
+border-radius: 20px;
+background-color: white;
+color: black;
+border-width: 0px;
+}
+body{
+    background-color: purple;
+}
